@@ -1,0 +1,39 @@
+
+div{
+  display: inline-block;
+  width: 100%
+}
+.span1{
+ text-align: justify; 
+  padding: 0; margin-left: 10px; margin-block-start: 10px;
+  font-family: 'Courier New', Courier, monospace; margin-bottom: 5px;
+  display: inline-block; width:23%;vertical-align: top; height: 250px; text-align: center;}
+
+
+h1{
+  font-weight: bolder;
+  text-align: center
+}
+img{
+  height: 300px;
+  width: 250px;
+}
+body{
+  background-image: url('../src/juv.jpg') ;
+color: goldenrod;}
+
+.span2{border-color: goldenrod; background-color: black; border-style: double; padding: 10px;
+  text-align: justify; 
+  margin-left: 20px; margin-block-start: 10px; height: 300px;
+   font-family: 'Courier New', Courier, monospace; margin-bottom: 5px;
+   display: inline-block; width:29%;vertical-align: top; text-align: left;}
+ 
+.span3{border-color: goldenrod; background-color: black; border-style: double; padding: 10px;
+  text-align: justify; 
+  margin-left: 20px; margin-block-start: 10px; height: 100px;
+   font-family: 'Courier New', Courier, monospace; margin-bottom: 5px;
+   display: inline-block; width:90%;vertical-align: top; text-align: left;
+  }
+h1{
+  text-align: center; font-style: italic; 
+}
